@@ -14,7 +14,6 @@ using Microsoft.OpenApi.Models;
 using APICatalogo.Context;
 using Microsoft.EntityFrameworkCore;
 
-
 namespace APICatalogo
 {
     public class Startup

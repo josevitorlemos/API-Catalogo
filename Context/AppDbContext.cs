@@ -6,7 +6,6 @@ using Microsoft.EntityFrameworkCore; //DUVIDA
 using APICatalogo.Models; //DUVIDA
 using Microsoft.Extensions.Configuration; //DUVIDA
 using System.IO; //DUVIDA
-using MySql.Data.EntityFrameworkCore;
 
 
 namespace APICatalogo.Context 
