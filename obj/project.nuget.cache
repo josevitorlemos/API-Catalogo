@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iSdyqseHllLGzxp81s9NLow34h3mj9pTYeUyoGp8LHjBObhc0rCpKlEc9s4MWQS7RwRZx/s13VME1c+gFsk7mg==",
+  "dgSpecHash": "VD0qgIVO74/fedgh8vthAMBjsEFqqmtI2HAUhWOYMNulDCoEm7nPrhiGKuRvSzN2Uti+GpKBqAlJnwSyIBOReQ==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/APICatalogo.csproj",
+  "projectFilePath": "/home/rick/code/API_Catalogo/APICatalogo.csproj",
   "expectedPackageFiles": [
     "/home/rick/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/rick/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
@@ -43,7 +43,7 @@
       "message": "Detected package version outside of dependency constraint: Pomelo.EntityFrameworkCore.MySql 3.2.4 requires Microsoft.EntityFrameworkCore.Relational (>= 3.1.8 && < 5.0.0) but version Microsoft.EntityFrameworkCore.Relational 5.0.4 was resolved.",
       "libraryId": "Microsoft.EntityFrameworkCore.Relational",
       "targetGraphs": [
-        ".NETCoreApp,Version=v5.0"
+        "net5.0"
       ]
     }
   ]
