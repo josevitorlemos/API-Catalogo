@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VD0qgIVO74/fedgh8vthAMBjsEFqqmtI2HAUhWOYMNulDCoEm7nPrhiGKuRvSzN2Uti+GpKBqAlJnwSyIBOReQ==",
+  "dgSpecHash": "IJ0Z6EIhCio48PrTp+t5SGkoZL75jR02vKzhhx8YMTM9fks0ydrQmhNQJZMWPwJPC0cAzqujEuGqjx3NIdeb5A==",
   "success": true,
-  "projectFilePath": "/home/rick/code/API_Catalogo/APICatalogo.csproj",
+  "projectFilePath": "/home/rick/codes/API_Catalogo/APICatalogo.csproj",
   "expectedPackageFiles": [
     "/home/rick/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/rick/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
@@ -23,9 +23,9 @@
     "/home/rick/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
     "/home/rick/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/home/rick/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/home/rick/.nuget/packages/mysqlconnector/0.69.9/mysqlconnector.0.69.9.nupkg.sha512",
+    "/home/rick/.nuget/packages/mysqlconnector/1.0.1/mysqlconnector.1.0.1.nupkg.sha512",
     "/home/rick/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
-    "/home/rick/.nuget/packages/pomelo.entityframeworkcore.mysql/3.2.4/pomelo.entityframeworkcore.mysql.3.2.4.nupkg.sha512",
+    "/home/rick/.nuget/packages/pomelo.entityframeworkcore.mysql/5.0.0-alpha.1/pomelo.entityframeworkcore.mysql.5.0.0-alpha.1.nupkg.sha512",
     "/home/rick/.nuget/packages/pomelo.jsonobject/2.2.1/pomelo.jsonobject.2.2.1.nupkg.sha512",
     "/home/rick/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/home/rick/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
@@ -35,16 +35,5 @@
     "/home/rick/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/home/rick/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Pomelo.EntityFrameworkCore.MySql 3.2.4 requires Microsoft.EntityFrameworkCore.Relational (>= 3.1.8 && < 5.0.0) but version Microsoft.EntityFrameworkCore.Relational 5.0.4 was resolved.",
-      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "logs": []
 }
