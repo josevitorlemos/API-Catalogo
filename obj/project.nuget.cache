@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IJ0Z6EIhCio48PrTp+t5SGkoZL75jR02vKzhhx8YMTM9fks0ydrQmhNQJZMWPwJPC0cAzqujEuGqjx3NIdeb5A==",
+  "dgSpecHash": "KJRVI1R60T6WZfXAv/zRgjYIK8BpUPtQ0z3tEBjgVVL2iosVpKA87u1Uqu22qWlRvie2x7UEfYl87Ffe6JCL5Q==",
   "success": true,
-  "projectFilePath": "/home/rick/codes/API_Catalogo/APICatalogo.csproj",
+  "projectFilePath": "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/APICatalogo.csproj",
   "expectedPackageFiles": [
     "/home/rick/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/rick/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

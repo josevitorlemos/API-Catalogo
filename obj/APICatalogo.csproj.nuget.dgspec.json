@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rick/codes/API_Catalogo/APICatalogo.csproj": {}
+    "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/APICatalogo.csproj": {}
   },
   "projects": {
-    "/home/rick/codes/API_Catalogo/APICatalogo.csproj": {
+    "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rick/codes/API_Catalogo/APICatalogo.csproj",
+        "projectUniqueName": "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "/home/rick/codes/API_Catalogo/APICatalogo.csproj",
+        "projectPath": "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/APICatalogo.csproj",
         "packagesPath": "/home/rick/.nuget/packages/",
-        "outputPath": "/home/rick/codes/API_Catalogo/obj/",
+        "outputPath": "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rick/.nuget/NuGet/NuGet.Config"
