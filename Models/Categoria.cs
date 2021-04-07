@@ -15,7 +15,7 @@ namespace APICatalogo.Models
     {
         public Categoria()
         {
-            Produtos = new Collection<Produto>(); //Boa pratica - Responsabilidade de categoria inicializar Produto
+            Produtos = new Collection<Produto>();
         }
         [Key]
 
@@ -29,6 +29,6 @@ namespace APICatalogo.Models
 
         public string ImageUrl { get; set; }
 
-        public ICollection<Produto> Produtos { get; set; } //Criou uma tabela para convenção, que informar ao EnptyFrameworkCore um relacionamento.
+        public ICollection<Produto> Produtos { get; set; }
     }
 }

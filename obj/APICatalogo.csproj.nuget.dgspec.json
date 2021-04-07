@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/APICatalogo.csproj": {}
+    "/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/APICatalogo.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/APICatalogo.csproj": {
+    "/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/APICatalogo.csproj",
+        "projectUniqueName": "/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/APICatalogo.csproj",
+        "projectPath": "/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/APICatalogo.csproj",
         "packagesPath": "/home/rick/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/",
+        "outputPath": "/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rick/.nuget/NuGet/NuGet.Config"

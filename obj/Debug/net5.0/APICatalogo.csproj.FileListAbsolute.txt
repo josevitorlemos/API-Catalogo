@@ -1,80 +1,40 @@
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/appsettings.Development.json
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/appsettings.json
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/APICatalogo
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/APICatalogo.deps.json
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/APICatalogo.runtimeconfig.json
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/APICatalogo.runtimeconfig.dev.json
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/APICatalogo.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/ref/APICatalogo.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/APICatalogo.pdb
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Microsoft.OpenApi.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.csprojAssemblyReference.cache
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.GeneratedMSBuildEditorConfig.editorconfig
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.AssemblyInfoInputs.cache
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.AssemblyInfo.cs
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.csproj.CoreCompileInputs.cache
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.MvcApplicationPartsAssemblyInfo.cs
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.MvcApplicationPartsAssemblyInfo.cache
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/staticwebassets/APICatalogo.StaticWebAssets.Manifest.cache
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/staticwebassets/APICatalogo.StaticWebAssets.xml
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/scopedcss/bundle/APICatalogo.styles.css
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.RazorTargetAssemblyInfo.cache
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.csproj.CopyComplete
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/ref/APICatalogo.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.pdb
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/obj/Debug/net5.0/APICatalogo.genruntimeconfig.cache
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Humanizer.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/MySqlConnector.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Newtonsoft.Json.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
-/mnt/c/Users/Mr Cat/Desktop/codes/APICatalogo/bin/Debug/net5.0/Pomelo.JsonObject.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/appsettings.Development.json
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/appsettings.json
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo.deps.json
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo.runtimeconfig.json
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo.runtimeconfig.dev.json
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/ref/APICatalogo.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo.pdb
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Humanizer.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.OpenApi.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/MySqlConnector.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Newtonsoft.Json.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Pomelo.JsonObject.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/home/rick/codes/API_Catalogo/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.csprojAssemblyReference.cache
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.GeneratedMSBuildEditorConfig.editorconfig
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.AssemblyInfoInputs.cache
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.AssemblyInfo.cs
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.csproj.CoreCompileInputs.cache
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.MvcApplicationPartsAssemblyInfo.cs
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.MvcApplicationPartsAssemblyInfo.cache
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/staticwebassets/APICatalogo.StaticWebAssets.Manifest.cache
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/staticwebassets/APICatalogo.StaticWebAssets.xml
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/scopedcss/bundle/APICatalogo.styles.css
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.RazorTargetAssemblyInfo.cache
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.csproj.CopyComplete
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.dll
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/ref/APICatalogo.dll
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.pdb
-/home/rick/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.genruntimeconfig.cache
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/appsettings.Development.json
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/appsettings.json
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo.deps.json
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo.runtimeconfig.json
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo.runtimeconfig.dev.json
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/ref/APICatalogo.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/APICatalogo.pdb
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Humanizer.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/MySqlConnector.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Newtonsoft.Json.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Pomelo.JsonObject.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.csprojAssemblyReference.cache
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.AssemblyInfoInputs.cache
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.AssemblyInfo.cs
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.MvcApplicationPartsAssemblyInfo.cs
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/staticwebassets/APICatalogo.StaticWebAssets.Manifest.cache
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/staticwebassets/APICatalogo.StaticWebAssets.xml
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/scopedcss/bundle/APICatalogo.styles.css
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.RazorTargetAssemblyInfo.cache
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.csproj.CopyComplete
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/ref/APICatalogo.dll
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.pdb
+/mnt/c/Users/Mr Cat/Desktop/codes/API_Catalogo/obj/Debug/net5.0/APICatalogo.genruntimeconfig.cache
